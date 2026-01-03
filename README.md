@@ -2,7 +2,7 @@ NRW Netzwerk Bot
 
 Privacy Policy für den Discord Bot NRW Netzwerk Bot
 
-Letzte Aktualisierung: 03.01.2025
+Letzte Aktualisierung: 03.01.2026
 
 1. Allgemeine Informationen
 
@@ -69,3 +69,72 @@ Kontakt: rast_123
 
 Diese Privacy Policy kann jederzeit angepasst werden.
 Die jeweils aktuelle Version ist unter dem angegebenen Link einsehbar.
+
+Terms of Service für den Discord Bot NRW Netzwerk Bot
+
+Letzte Aktualisierung: 03.01.2026
+----ToS des Bots---
+1. Geltungsbereich
+
+Diese Terms of Service regeln die Nutzung des Discord Bots NRW Netzwerk Bot
+Mit der Nutzung des Bots erklärst du dich mit diesen Nutzungsbedingungen einverstanden.
+
+2. Private Nutzung
+
+Der Discord Bot ist ein privater Bot.
+
+Die Nutzung des Bots ist ausschließlich dem Inhaber und dem stellvertretenden Inhaber gestattet.
+Eine Nutzung durch andere Personen oder Server ist nicht erlaubt.
+
+3. Nutzung des Bots
+
+Der Bot darf nur:
+
+im Rahmen der Discord-Richtlinien
+
+und im geltenden Recht
+
+verwendet werden.
+
+4. Verbotenes Verhalten
+
+Es ist untersagt:
+
+den Bot ohne Berechtigung zu verwenden
+
+den Bot zu manipulieren oder zu verändern
+
+Sicherheitslücken auszunutzen
+
+den Bot für illegale oder missbräuchliche Zwecke einzusetzen
+
+5. Haftungsausschluss
+
+Der Bot wird „wie er ist“ bereitgestellt.
+Es wird keine Garantie für:
+
+ständige Verfügbarkeit
+
+Fehlerfreiheit
+
+Datenverlust
+
+übernommen.
+
+6. Sperrung und Zugriffsentzug
+
+Der Betreiber behält sich das Recht vor, den Zugriff auf den Bot jederzeit und ohne Angabe von Gründen zu entziehen.
+
+7. Datenschutz
+
+Informationen zur Verarbeitung personenbezogener Daten sind in der Privacy Policy des Bots geregelt.
+
+8. Änderungen der Terms of Service
+
+Diese Terms of Service können jederzeit geändert werden.
+Die jeweils aktuelle Version ist öffentlich einsehbar.
+
+9. Kontakt
+
+Betreiber: M.Hitz
+Kontakt: rast_123
